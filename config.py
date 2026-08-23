@@ -1,0 +1,4 @@
+CANVAS_SIZE = 1800
+DESIGN_SCALE = 0.6
+MAVELI_IMAGE = "maveli.png"
+WISH_IMAGE = "wish.png"
