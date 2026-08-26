@@ -67,9 +67,11 @@ def draw_pookalam_layers(pen: turtle.Turtle) -> None:
 
 
 def draw_pookalam() -> None:
+    turtle.tracer(40, 0)
     turtle.bgcolor("#fffdf4")
 
     pen = turtle.Turtle(visible=False)
-    pen.speed(6)
+    pen.speed(0)
     draw_pookalam_layers(pen)
     place_wish_image()
+    turtle.update()
