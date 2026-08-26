@@ -20,11 +20,7 @@ The code is modularized into small root-level Python files so each design layer 
 
 ## Preview
 
-Here is a short video showing the execution of the Pookalam design:
-
-<video src="pookalam.mp4" controls width="640">
-  Your browser does not support the video tag.
-</video>
+[https://github.com/user-attachments/assets/e37f22e4-a93f-429d-99c3-f89a36ee754f](https://github.com/user-attachments/assets/e37f22e4-a93f-429d-99c3-f89a36ee754f)
 
 ## Features
 
